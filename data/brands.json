@@ -1,0 +1,12 @@
+[
+  { "slug": "noorelle", "name": "Noorelle", "wordmark": "light", "tagline": { "ar": "إشراقة من الضوء", "en": "Light, bottled" } },
+  { "slug": "aurae-lab", "name": "Aurae Lab", "wordmark": "caps", "tagline": { "ar": "علم البشرة بلمسة فاخرة", "en": "Skin science, refined" } },
+  { "slug": "maison-saba", "name": "Maison Saba", "wordmark": "italic", "tagline": { "ar": "عطور من نسيم الصباح", "en": "Fragrance of the morning breeze" } },
+  { "slug": "oudea", "name": "Oudéa", "wordmark": "bold", "tagline": { "ar": "روح العود الحديث", "en": "The modern soul of oud" } },
+  { "slug": "lunare", "name": "Lunaré", "wordmark": "light", "tagline": { "ar": "مكياج لكل الأمسيات", "en": "Makeup for every evening" } },
+  { "slug": "vireo-skin", "name": "Vireo Skin", "wordmark": "caps", "tagline": { "ar": "عناية نباتية نظيفة", "en": "Clean botanical care" } },
+  { "slug": "halcyon-hue", "name": "Halcyon & Hue", "wordmark": "italic", "tagline": { "ar": "ألوان هادئة جريئة", "en": "Calm colors, bold intent" } },
+  { "slug": "petalis", "name": "Petalis", "wordmark": "bold", "tagline": { "ar": "شعر صحي من الجذور", "en": "Healthy hair from the root" } },
+  { "slug": "atlas-tools", "name": "Atlas Tools", "wordmark": "caps", "tagline": { "ar": "أدوات احترافية بدقة", "en": "Professional tools, precisely made" } },
+  { "slug": "kasbah-botanics", "name": "Kasbah Botanics", "wordmark": "light", "tagline": { "ar": "طقوس الحمّام المغربي", "en": "Rituals of the hammam" } }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "contact",
+    "title": { "ar": "تواصلي معنا", "en": "Contact us" },
+    "body": {
+      "ar": ["فريق خدمة العملاء متاح من الأحد إلى الخميس، من 9 صباحاً حتى 9 مساءً.", "البريد الإلكتروني: care@darlux.com — نرد خلال 24 ساعة.", "الواتساب: ‎+966 5x xxx xxxx"],
+      "en": ["Our care team is available Sunday to Thursday, 9 AM to 9 PM.", "Email: care@darlux.com. We reply within 24 hours.", "WhatsApp: +966 5x xxx xxxx"]
+    }
+  },
+  {
+    "slug": "shipping",
+    "title": { "ar": "الشحن والتوصيل", "en": "Shipping & delivery" },
+    "body": {
+      "ar": ["التوصيل العادي خلال 3–5 أيام عمل، ومجاني للطلبات التي تتجاوز حد الشحن المجاني.", "التوصيل السريع خلال 1–2 يوم عمل، والتوصيل في نفس اليوم متاح في المدن الرئيسية للطلبات قبل الساعة 2 ظهراً."],
+      "en": ["Standard delivery takes 3–5 business days and is free above the free-shipping threshold.", "Express delivery takes 1–2 business days. Same-day delivery is available in major cities for orders placed before 2 PM."]
+    }
+  },
+  {
+    "slug": "returns",
+    "title": { "ar": "الإرجاع والاستبدال", "en": "Returns & exchanges" },
+    "body": {
+      "ar": ["يمكنك إرجاع المنتجات غير المفتوحة خلال 30 يوماً من الاستلام مجاناً.", "لأسباب صحية، لا يمكن إرجاع المنتجات المستخدمة إلا إذا كانت معيبة."],
+      "en": ["Return unopened products free of charge within 30 days of delivery.", "For hygiene reasons, used products can only be returned if faulty."]
+    }
+  },
+  {
+    "slug": "faq",
+    "title": { "ar": "الأسئلة الشائعة", "en": "FAQ" },
+    "body": {
+      "ar": ["هل المنتجات أصلية؟ نعم، نتعامل مباشرة مع العلامات التجارية.", "هل يمكنني الدفع عند الاستلام؟ نعم، في جميع الدول التي نشحن إليها."],
+      "en": ["Are your products authentic? Yes, we work directly with every brand.", "Can I pay on delivery? Yes, cash on delivery is available in every country we ship to."]
+    }
+  },
+  {
+    "slug": "story",
+    "title": { "ar": "قصتنا", "en": "Our story" },
+    "body": {
+      "ar": ["وُلدت Darlux من حب الجمال المدروس: علامات مستقلة، تركيبات صادقة، وتجربة تسوق تليق بك.", "نختار كل منتج بعناية ونختبره قبل أن يصل إليك."],
+      "en": ["Darlux was born from a love of considered beauty: independent brands, honest formulas and a shopping experience worthy of you.", "Every product is hand-picked and tested before it reaches you."]
+    }
+  },
+  {
+    "slug": "careers",
+    "title": { "ar": "الوظائف", "en": "Careers" },
+    "body": {
+      "ar": ["نبحث دائماً عن مواهب شغوفة بالجمال والتقنية. أرسلي سيرتك الذاتية إلى careers@darlux.com."],
+      "en": ["We're always looking for people who love beauty and technology. Send your CV to careers@darlux.com."]
+    }
+  },
+  {
+    "slug": "sustainability",
+    "title": { "ar": "الاستدامة", "en": "Sustainability" },
+    "body": {
+      "ar": ["نستخدم تغليفاً قابلاً لإعادة التدوير، ونفضّل العلامات الخالية من القسوة على الحيوانات."],
+      "en": ["We ship in recyclable packaging and prioritise cruelty-free brands."]
+    }
+  },
+  {
+    "slug": "privacy",
+    "title": { "ar": "سياسة الخصوصية", "en": "Privacy policy" },
+    "body": {
+      "ar": ["هذا متجر تجريبي. تُحفظ بيانات السلة والحساب في متصفحك فقط ولا تُرسل إلى أي خادم."],
+      "en": ["This is a demo storefront. Basket and account data are stored only in your browser and never sent to a server."]
+    }
+  },
+  {
+    "slug": "terms",
+    "title": { "ar": "شروط الاستخدام", "en": "Terms of use" },
+    "body": {
+      "ar": ["المنتجات والأسعار والعلامات التجارية المعروضة خيالية ولأغراض العرض فقط."],
+      "en": ["Products, prices and brands shown are fictional and for demonstration purposes only."]
+    }
+  }
+]

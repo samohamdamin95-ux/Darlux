@@ -1,0 +1,69 @@
+{
+  "announcements": [
+    {
+      "id": "shipping",
+      "text": { "ar": "شحن مجاني للطلبات فوق {threshold}", "en": "Free shipping on orders over {threshold}" },
+      "href": "/c/new"
+    },
+    {
+      "id": "new",
+      "text": { "ar": "وصل حديثاً: مجموعة Lunaré للخريف", "en": "Just in: the Lunaré autumn collection" },
+      "href": "/brands/lunare"
+    },
+    {
+      "id": "circle",
+      "text": { "ar": "انضمي إلى Darlux Circle واكسبي نقاطاً مع كل طلب", "en": "Join Darlux Circle and earn points on every order" },
+      "href": "/account"
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": "autumn",
+      "eyebrow": { "ar": "مجموعة جديدة", "en": "New collection" },
+      "title": { "ar": "ألوان دافئة لموسم جديد", "en": "Warm shades for a new season" },
+      "subtitle": { "ar": "أحمر شفاه مخملي وظلال عيون غنية من Lunaré.", "en": "Velvet lipsticks and rich eyeshadows from Lunaré." },
+      "cta": { "ar": "تسوقي المكياج", "en": "Shop makeup" },
+      "href": "/c/makeup",
+      "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&w=2000&q=80",
+      "theme": "dark"
+    },
+    {
+      "id": "glow",
+      "eyebrow": { "ar": "العناية بالبشرة", "en": "Skincare" },
+      "title": { "ar": "إشراقة تبدأ من الروتين", "en": "Glow starts with the routine" },
+      "subtitle": { "ar": "سيرومات فيتامين C ومرطبات خفيفة تدوم طوال اليوم.", "en": "Vitamin C serums and featherlight moisturizers that last all day." },
+      "cta": { "ar": "اكتشفي العناية", "en": "Discover skincare" },
+      "href": "/c/skincare",
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=2000&q=80",
+      "theme": "dark"
+    },
+    {
+      "id": "oud",
+      "eyebrow": { "ar": "حصرياً في Darlux", "en": "Darlux exclusive" },
+      "title": { "ar": "العود كما لم تعرفيه", "en": "Oud, reimagined" },
+      "subtitle": { "ar": "عطور Oudéa الجديدة بنفحات العنبر والزعفران.", "en": "New Oudéa fragrances with notes of amber and saffron." },
+      "cta": { "ar": "تسوقي العطور", "en": "Shop fragrance" },
+      "href": "/c/fragrance",
+      "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=2000&q=80",
+      "theme": "dark"
+    }
+  ],
+  "promoBanners": [
+    {
+      "id": "sale",
+      "eyebrow": { "ar": "لفترة محدودة", "en": "Limited time" },
+      "title": { "ar": "خصومات حتى 30٪ على مختارات العناية", "en": "Up to 30% off selected skincare" },
+      "cta": { "ar": "تسوقي التخفيضات", "en": "Shop the sale" },
+      "href": "/c/sale",
+      "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "brushes",
+      "eyebrow": { "ar": "أدوات المحترفين", "en": "Pro tools" },
+      "title": { "ar": "فرش Atlas: دقة في كل لمسة", "en": "Atlas brushes: precision in every stroke" },
+      "cta": { "ar": "اكتشفي الأدوات", "en": "Explore tools" },
+      "href": "/c/tools",
+      "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}

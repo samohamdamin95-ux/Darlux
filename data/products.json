@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "dl-001",
+    "slug": "velvet-matte-lipstick",
+    "brand": "lunare",
+    "name": {
+      "ar": "أحمر شفاه مخملي مطفي",
+      "en": "Velvet Matte Lipstick"
+    },
+    "price": 29,
+    "salePrice": null,
+    "rating": 4.7,
+    "reviewCount": 1284,
+    "images": [
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "rose-nude",
+        "name": {
+          "ar": "وردي نود",
+          "en": "Rose Nude"
+        },
+        "hex": "#C68A7E",
+        "family": "nude",
+        "imageIndex": 0
+      },
+      {
+        "id": "velvet-red",
+        "name": {
+          "ar": "أحمر مخملي",
+          "en": "Velvet Red"
+        },
+        "hex": "#A3182B",
+        "family": "red",
+        "imageIndex": 1
+      },
+      {
+        "id": "berry-night",
+        "name": {
+          "ar": "توت الليل",
+          "en": "Berry Night"
+        },
+        "hex": "#6E1E3A",
+        "family": "berry",
+        "imageIndex": 0
+      },
+      {
+        "id": "cocoa",
+        "name": {
+          "ar": "كاكاو",
+          "en": "Cocoa"
+        },
+        "hex": "#7A4A3A",
+        "family": "brown",
+        "imageIndex": 1
+      },
+      {
+        "id": "petal",
+        "name": {
+          "ar": "بتلة",
+          "en": "Petal"
+        },
+        "hex": "#D9828F",
+        "family": "pink",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 29,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "lips",
+    "tags": [
+      "bestseller"
+    ],
+    "skinTypes": [],
+    "concerns": [
+      "long-wear"
+    ],
+    "finish": "matte",
+    "description": {
+      "ar": "لون غني بلمسة نهائية مطفية ناعمة يدوم حتى 12 ساعة دون أن يجفف الشفاه.",
+      "en": "Rich color with a soft-matte finish that lasts up to 12 hours without drying lips."
+    },
+    "howToUse": {
+      "ar": "ابدئي من منتصف الشفة العليا ثم وزعي نحو الأطراف. أعيدي التطبيق لكثافة أعلى.",
+      "en": "Start at the center of your upper lip and sweep outward. Layer for more intensity."
+    },
+    "ingredients": {
+      "ar": "زيت الجوجوبا، شمع الكانديليلا، فيتامين E، زبدة الشيا، أكاسيد الحديد.",
+      "en": "Jojoba Oil, Candelilla Wax, Tocopherol (Vitamin E), Shea Butter, Iron Oxides."
+    },
+    "createdAt": "2026-03-12"
+  },
+  {
+    "id": "dl-002",
+    "slug": "glass-lip-oil",
+    "brand": "halcyon-hue",
+    "name": {
+      "ar": "زيت شفاه زجاجي",
+      "en": "Glass Lip Oil"
+    },
+    "price": 24,
+    "salePrice": null,
+    "rating": 4.5,
+    "reviewCount": 642,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "rose-nude",
+        "name": {
+          "ar": "وردي نود",
+          "en": "Rose Nude"
+        },
+        "hex": "#C68A7E",
+        "family": "nude",
+        "imageIndex": 0
+      },
+      {
+        "id": "velvet-red",
+        "name": {
+          "ar": "أحمر مخملي",
+          "en": "Velvet Red"
+        },
+        "hex": "#A3182B",
+        "family": "red",
+        "imageIndex": 1
+      },
+      {
+        "id": "berry-night",
+        "name": {
+          "ar": "توت الليل",
+          "en": "Berry Night"
+        },
+        "hex": "#6E1E3A",
+        "family": "berry",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 24,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "lips",
+    "tags": [
+      "new",
+      "just-dropped"
+    ],
+    "skinTypes": [],
+    "concerns": [
+      "hydration"
+    ],
+    "finish": "dewy",
+    "description": {
+      "ar": "لمعان زجاجي بلون شفاف يغذي الشفاه بزيوت نباتية خفيفة غير لزجة.",
+      "en": "A glass-like shine with sheer color that nourishes with lightweight, non-sticky botanical oils."
+    },
+    "howToUse": {
+      "ar": "ابدئي من منتصف الشفة العليا ثم وزعي نحو الأطراف. أعيدي التطبيق لكثافة أعلى.",
+      "en": "Start at the center of your upper lip and sweep outward. Layer for more intensity."
+    },
+    "ingredients": {
+      "ar": "زيت الجوجوبا، شمع الكانديليلا، فيتامين E، زبدة الشيا، أكاسيد الحديد.",
+      "en": "Jojoba Oil, Candelilla Wax, Tocopherol (Vitamin E), Shea Butter, Iron Oxides."
+    },
+    "createdAt": "2026-09-28"
+  },
+  {
+    "id": "dl-003",
+    "slug": "satin-lip-liner",
+    "brand": "lunare",
+    "name": {
+      "ar": "محدد شفاه ساتان",
+      "en": "Satin Lip Liner"
+    },
+    "price": 18,
+    "salePrice": 14,
+    "rating": 4.4,
+    "reviewCount": 389,
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1631730359585-38a4935cbec4?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "rose-nude",
+        "name": {
+          "ar": "وردي نود",
+          "en": "Rose Nude"
+        },
+        "hex": "#C68A7E",
+        "family": "nude",
+        "imageIndex": 0
+      },
+      {
+        "id": "velvet-red",
+        "name": {
+          "ar": "أحمر مخملي",
+          "en": "Velvet Red"
+        },
+        "hex": "#A3182B",
+        "family": "red",
+        "imageIndex": 1
+      },
+      {
+        "id": "berry-night",
+        "name": {
+          "ar": "توت الليل",
+          "en": "Berry Night"
+        },
+        "hex": "#6E1E3A",
+        "family": "berry",
+        "imageIndex": 0
+      },
+      {
+        "id": "cocoa",
+        "name": {
+          "ar": "كاكاو",
+          "en": "Cocoa"
+        },
+        "hex": "#7A4A3A",
+        "family": "brown",
+        "imageIndex": 1
+      },
+      {
+        "id": "petal",
+        "name": {
+          "ar": "بتلة",
+          "en": "Petal"
+        },
+        "hex": "#D9828F",
+        "family": "pink",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 18,
+        "salePrice": 14
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "lips",
+    "tags": [],
+    "skinTypes": [],
+    "concerns": [
+      "long-wear"
+    ],
+    "finish": "satin",
+    "description": {
+      "ar": "قلم كريمي ينزلق بسهولة ويحدد الشفاه بدقة ويمنع انتشار أحمر الشفاه.",
+      "en": "A creamy pencil that glides on, defines precisely and keeps lipstick from feathering."
+    },
+    "howToUse": {
+      "ar": "ابدئي من منتصف الشفة العليا ثم وزعي نحو الأطراف. أعيدي التطبيق لكثافة أعلى.",
+      "en": "Start at the center of your upper lip and sweep outward. Layer for more intensity."
+    },
+    "ingredients": {
+      "ar": "زيت الجوجوبا، شمع الكانديليلا، فيتامين E، زبدة الشيا، أكاسيد الحديد.",
+      "en": "Jojoba Oil, Candelilla Wax, Tocopherol (Vitamin E), Shea Butter, Iron Oxides."
+    },
+    "createdAt": "2025-11-02"
+  },
+  {
+    "id": "dl-004",
+    "slug": "second-skin-foundation",
+    "brand": "noorelle",
+    "name": {
+      "ar": "كريم أساس سكند سكن",
+      "en": "Second Skin Foundation"
+    },
+    "price": 48,
+    "salePrice": null,
+    "rating": 4.6,
+    "reviewCount": 2105,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1631730359585-38a4935cbec4?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583241475880-083f84372725?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "porcelain",
+        "name": {
+          "ar": "بورسلين",
+          "en": "Porcelain 110"
+        },
+        "hex": "#F1D6C0",
+        "family": "neutral",
+        "imageIndex": 0
+      },
+      {
+        "id": "ivory",
+        "name": {
+          "ar": "عاجي",
+          "en": "Ivory 140"
+        },
+        "hex": "#E6C3A4",
+        "family": "neutral",
+        "imageIndex": 1
+      },
+      {
+        "id": "sand",
+        "name": {
+          "ar": "رملي",
+          "en": "Sand 220"
+        },
+        "hex": "#D4A784",
+        "family": "neutral",
+        "imageIndex": 0
+      },
+      {
+        "id": "honey",
+        "name": {
+          "ar": "عسلي",
+          "en": "Honey 330"
+        },
+        "hex": "#B9845C",
+        "family": "brown",
+        "imageIndex": 1
+      },
+      {
+        "id": "amber",
+        "name": {
+          "ar": "كهرماني",
+          "en": "Amber 420"
+        },
+        "hex": "#93603E",
+        "family": "brown",
+        "imageIndex": 0
+      },
+      {
+        "id": "espresso",
+        "name": {
+          "ar": "إسبريسو",
+          "en": "Espresso 510"
+        },
+        "hex": "#5E3B28",
+        "family": "brown",
+        "imageIndex": 1
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 48,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "face",
+    "tags": [
+      "bestseller",
+      "exclusive"
+    ],
+    "skinTypes": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "concerns": [
+      "long-wear",
+      "dullness"
+    ],
+    "finish": "natural",
+    "description": {
+      "ar": "تغطية متوسطة قابلة للبناء بلمسة طبيعية تشبه البشرة مع حمض الهيالورونيك.",
+      "en": "Medium, buildable coverage with a skin-like natural finish, infused with hyaluronic acid."
+    },
+    "howToUse": {
+      "ar": "وزعي كمية صغيرة بفرشاة أو إسفنجة من وسط الوجه نحو الخارج، وابني التغطية تدريجياً.",
+      "en": "Blend a small amount from the center of the face outward with a brush or sponge; build coverage gradually."
+    },
+    "ingredients": {
+      "ar": "ماء، سيكلوبنتاسيلوكسان، جليسرين، حمض الهيالورونيك، نياسيناميد، ثاني أكسيد التيتانيوم.",
+      "en": "Aqua, Cyclopentasiloxane, Glycerin, Sodium Hyaluronate, Niacinamide, Titanium Dioxide."
+    },
+    "createdAt": "2025-08-20"
+  },
+  {
+    "id": "dl-005",
+    "slug": "blur-skin-tint",
+    "brand": "noorelle",
+    "name": {
+      "ar": "تينت البشرة المموه",
+      "en": "Blur Skin Tint"
+    },
+    "price": 38,
+    "salePrice": null,
+    "rating": 4.3,
+    "reviewCount": 517,
+    "images": [
+      "https://images.unsplash.com/photo-1631730359585-38a4935cbec4?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583241475880-083f84372725?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "porcelain",
+        "name": {
+          "ar": "بورسلين",
+          "en": "Porcelain 110"
+        },
+        "hex": "#F1D6C0",
+        "family": "neutral",
+        "imageIndex": 0
+      },
+      {
+        "id": "ivory",
+        "name": {
+          "ar": "عاجي",
+          "en": "Ivory 140"
+        },
+        "hex": "#E6C3A4",
+        "family": "neutral",
+        "imageIndex": 1
+      },
+      {
+        "id": "sand",
+        "name": {
+          "ar": "رملي",
+          "en": "Sand 220"
+        },
+        "hex": "#D4A784",
+        "family": "neutral",
+        "imageIndex": 0
+      },
+      {
+        "id": "honey",
+        "name": {
+          "ar": "عسلي",
+          "en": "Honey 330"
+        },
+        "hex": "#B9845C",
+        "family": "brown",
+        "imageIndex": 1
+      },
+      {
+        "id": "amber",
+        "name": {
+          "ar": "كهرماني",
+          "en": "Amber 420"
+        },
+        "hex": "#93603E",
+        "family": "brown",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 38,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "face",
+    "tags": [
+      "new"
+    ],
+    "skinTypes": [
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "pores"
+    ],
+    "finish": "matte",
+    "description": {
+      "ar": "تينت خفيف يموّه المسام ويوحّد لون البشرة مع تحكم بالزيوت طوال اليوم.",
+      "en": "A featherlight tint that blurs pores and evens tone with all-day oil control."
+    },
+    "howToUse": {
+      "ar": "وزعي كمية صغيرة بفرشاة أو إسفنجة من وسط الوجه نحو الخارج، وابني التغطية تدريجياً.",
+      "en": "Blend a small amount from the center of the face outward with a brush or sponge; build coverage gradually."
+    },
+    "ingredients": {
+      "ar": "ماء، سيكلوبنتاسيلوكسان، جليسرين، حمض الهيالورونيك، نياسيناميد، ثاني أكسيد التيتانيوم.",
+      "en": "Aqua, Cyclopentasiloxane, Glycerin, Sodium Hyaluronate, Niacinamide, Titanium Dioxide."
+    },
+    "createdAt": "2026-09-05"
+  },
+  {
+    "id": "dl-006",
+    "slug": "radiant-concealer",
+    "brand": "halcyon-hue",
+    "name": {
+      "ar": "كونسيلر مشرق",
+      "en": "Radiant Concealer"
+    },
+    "price": 30,
+    "salePrice": 22,
+    "rating": 4.5,
+    "reviewCount": 934,
+    "images": [
+      "https://images.unsplash.com/photo-1583241475880-083f84372725?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "porcelain",
+        "name": {
+          "ar": "بورسلين",
+          "en": "Porcelain 110"
+        },
+        "hex": "#F1D6C0",
+        "family": "neutral",
+        "imageIndex": 0
+      },
+      {
+        "id": "ivory",
+        "name": {
+          "ar": "عاجي",
+          "en": "Ivory 140"
+        },
+        "hex": "#E6C3A4",
+        "family": "neutral",
+        "imageIndex": 1
+      },
+      {
+        "id": "sand",
+        "name": {
+          "ar": "رملي",
+          "en": "Sand 220"
+        },
+        "hex": "#D4A784",
+        "family": "neutral",
+        "imageIndex": 0
+      },
+      {
+        "id": "honey",
+        "name": {
+          "ar": "عسلي",
+          "en": "Honey 330"
+        },
+        "hex": "#B9845C",
+        "family": "brown",
+        "imageIndex": 1
+      },
+      {
+        "id": "amber",
+        "name": {
+          "ar": "كهرماني",
+          "en": "Amber 420"
+        },
+        "hex": "#93603E",
+        "family": "brown",
+        "imageIndex": 0
+      },
+      {
+        "id": "espresso",
+        "name": {
+          "ar": "إسبريسو",
+          "en": "Espresso 510"
+        },
+        "hex": "#5E3B28",
+        "family": "brown",
+        "imageIndex": 1
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 30,
+        "salePrice": 22
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "face",
+    "tags": [],
+    "skinTypes": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "dark-spots"
+    ],
+    "finish": "radiant",
+    "description": {
+      "ar": "يخفي الهالات والبقع بتغطية عالية وإشراقة خفيفة دون تجمع في الخطوط.",
+      "en": "Covers dark circles and spots with high coverage and a subtle glow that never creases."
+    },
+    "howToUse": {
+      "ar": "وزعي كمية صغيرة بفرشاة أو إسفنجة من وسط الوجه نحو الخارج، وابني التغطية تدريجياً.",
+      "en": "Blend a small amount from the center of the face outward with a brush or sponge; build coverage gradually."
+    },
+    "ingredients": {
+      "ar": "ماء، سيكلوبنتاسيلوكسان، جليسرين، حمض الهيالورونيك، نياسيناميد، ثاني أكسيد التيتانيوم.",
+      "en": "Aqua, Cyclopentasiloxane, Glycerin, Sodium Hyaluronate, Niacinamide, Titanium Dioxide."
+    },
+    "createdAt": "2025-06-14"
+  },
+  {
+    "id": "dl-007",
+    "slug": "desert-eyeshadow-palette",
+    "brand": "lunare",
+    "name": {
+      "ar": "باليت ظلال الصحراء",
+      "en": "Desert Eyeshadow Palette"
+    },
+    "price": 54,
+    "salePrice": null,
+    "rating": 4.8,
+    "reviewCount": 1560,
+    "images": [
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "desert",
+        "name": {
+          "ar": "صحراء",
+          "en": "Desert Dusk"
+        },
+        "hex": "#B07B55",
+        "family": "brown",
+        "imageIndex": 0
+      },
+      {
+        "id": "smoke",
+        "name": {
+          "ar": "دخاني",
+          "en": "Midnight Smoke"
+        },
+        "hex": "#2B2B30",
+        "family": "black",
+        "imageIndex": 1
+      },
+      {
+        "id": "gold",
+        "name": {
+          "ar": "ذهبي",
+          "en": "Liquid Gold"
+        },
+        "hex": "#C9A15B",
+        "family": "gold",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 54,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "eyes",
+    "tags": [
+      "bestseller",
+      "exclusive"
+    ],
+    "skinTypes": [],
+    "concerns": [
+      "long-wear"
+    ],
+    "finish": "shimmer",
+    "description": {
+      "ar": "اثنا عشر لوناً دافئاً بين المطفي واللامع مستوحاة من رمال الصحراء عند الغروب.",
+      "en": "Twelve warm matte and shimmer shades inspired by desert dunes at sunset."
+    },
+    "howToUse": {
+      "ar": "طبقي اللون الفاتح على كامل الجفن، ثم الداكن في طية العين، واستخدمي اللامع في المنتصف.",
+      "en": "Sweep the light shade over the lid, deepen the crease with the dark shade and tap shimmer onto the center."
+    },
+    "ingredients": {
+      "ar": "تالك، ميكا، زيت بذور العنب، ستيرات المغنيسيوم، أكاسيد الحديد.",
+      "en": "Talc, Mica, Vitis Vinifera Seed Oil, Magnesium Stearate, Iron Oxides."
+    },
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": "dl-008",
+    "slug": "sky-high-mascara",
+    "brand": "halcyon-hue",
+    "name": {
+      "ar": "ماسكارا سكاي هاي",
+      "en": "Sky High Mascara"
+    },
+    "price": 26,
+    "salePrice": null,
+    "rating": 4.4,
+    "reviewCount": 2890,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "black",
+        "name": {
+          "ar": "أسود",
+          "en": "Black"
+        },
+        "hex": "#111111",
+        "family": "black",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 26,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "eyes",
+    "tags": [
+      "bestseller"
+    ],
+    "skinTypes": [],
+    "concerns": [
+      "long-wear"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "فرشاة مرنة تفصل وتطيل كل رمش بتركيبة مقاومة للتلطخ.",
+      "en": "A flexible brush that separates and lengthens every lash with a smudge-proof formula."
+    },
+    "howToUse": {
+      "ar": "طبقي اللون الفاتح على كامل الجفن، ثم الداكن في طية العين، واستخدمي اللامع في المنتصف.",
+      "en": "Sweep the light shade over the lid, deepen the crease with the dark shade and tap shimmer onto the center."
+    },
+    "ingredients": {
+      "ar": "تالك، ميكا، زيت بذور العنب، ستيرات المغنيسيوم، أكاسيد الحديد.",
+      "en": "Talc, Mica, Vitis Vinifera Seed Oil, Magnesium Stearate, Iron Oxides."
+    },
+    "createdAt": "2025-04-09"
+  },
+  {
+    "id": "dl-009",
+    "slug": "soft-focus-blush",
+    "brand": "noorelle",
+    "name": {
+      "ar": "أحمر خدود سوفت فوكس",
+      "en": "Soft-Focus Blush"
+    },
+    "price": 32,
+    "salePrice": null,
+    "rating": 4.6,
+    "reviewCount": 803,
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1631730359585-38a4935cbec4?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [
+      {
+        "id": "peach",
+        "name": {
+          "ar": "خوخي",
+          "en": "Peach Silk"
+        },
+        "hex": "#E59A82",
+        "family": "pink",
+        "imageIndex": 0
+      },
+      {
+        "id": "mauve",
+        "name": {
+          "ar": "موف",
+          "en": "Mauve Muse"
+        },
+        "hex": "#B9737F",
+        "family": "berry",
+        "imageIndex": 1
+      },
+      {
+        "id": "bronze",
+        "name": {
+          "ar": "برونزي",
+          "en": "Sun Bronze"
+        },
+        "hex": "#A8673F",
+        "family": "gold",
+        "imageIndex": 0
+      }
+    ],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 32,
+        "salePrice": null
+      }
+    ],
+    "category": "makeup",
+    "subcategory": "cheeks",
+    "tags": [
+      "just-dropped"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": "satin",
+    "description": {
+      "ar": "بودرة حريرية تمتزج بسلاسة لتمنح الخدين توهجاً صحياً طبيعياً.",
+      "en": "A silky powder that melts in for a natural, healthy flush."
+    },
+    "howToUse": {
+      "ar": "ابتسمي ووزعي اللون على عظمة الخد باتجاه الصدغ بحركات دائرية.",
+      "en": "Smile and blend onto the apples of the cheeks, sweeping up toward the temples."
+    },
+    "ingredients": {
+      "ar": "تالك، ميكا، زيت بذور العنب، ستيرات المغنيسيوم، أكاسيد الحديد.",
+      "en": "Talc, Mica, Vitis Vinifera Seed Oil, Magnesium Stearate, Iron Oxides."
+    },
+    "createdAt": "2026-10-10"
+  },
+  {
+    "id": "dl-010",
+    "slug": "vitamin-c-glow-serum",
+    "brand": "aurae-lab",
+    "name": {
+      "ar": "سيروم فيتامين C للإشراق",
+      "en": "Vitamin C Glow Serum"
+    },
+    "price": 68,
+    "salePrice": 51,
+    "rating": 4.7,
+    "reviewCount": 1742,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "30ml",
+        "label": "30 ml",
+        "price": 68,
+        "salePrice": 51
+      },
+      {
+        "id": "50ml",
+        "label": "50 ml",
+        "price": 96,
+        "salePrice": 72
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "serums",
+    "tags": [
+      "bestseller"
+    ],
+    "skinTypes": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "concerns": [
+      "dullness",
+      "dark-spots"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "تركيبة مستقرة بنسبة 15٪ فيتامين C تفتّح البشرة وتقلل البقع الداكنة خلال أسابيع.",
+      "en": "A stable 15% vitamin C formula that brightens and fades dark spots within weeks."
+    },
+    "howToUse": {
+      "ar": "ضعي 3–4 قطرات على بشرة نظيفة صباحاً ومساءً قبل المرطب.",
+      "en": "Press 3–4 drops onto clean skin morning and night, before moisturizer."
+    },
+    "ingredients": {
+      "ar": "ماء، حمض الأسكوربيك 15٪، فيتامين E، حمض الفيروليك، جليسرين.",
+      "en": "Aqua, Ascorbic Acid 15%, Tocopherol, Ferulic Acid, Glycerin."
+    },
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": "dl-011",
+    "slug": "ceramide-cloud-cream",
+    "brand": "aurae-lab",
+    "name": {
+      "ar": "كريم السيراميد السحابي",
+      "en": "Ceramide Cloud Cream"
+    },
+    "price": 52,
+    "salePrice": null,
+    "rating": 4.8,
+    "reviewCount": 2330,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "50ml",
+        "label": "50 ml",
+        "price": 52,
+        "salePrice": null
+      },
+      {
+        "id": "100ml",
+        "label": "100 ml",
+        "price": 84,
+        "salePrice": null
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "moisturizers",
+    "tags": [
+      "bestseller",
+      "exclusive"
+    ],
+    "skinTypes": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "hydration"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "مرطب خفيف كالسحاب بخمسة أنواع من السيراميد يرمم حاجز البشرة طوال 72 ساعة.",
+      "en": "A cloud-light moisturizer with five ceramides that restores the skin barrier for 72 hours."
+    },
+    "howToUse": {
+      "ar": "دلكي كمية بحجم حبة البازلاء على الوجه والرقبة كخطوة أخيرة في الروتين.",
+      "en": "Massage a pea-sized amount over face and neck as the last step of your routine."
+    },
+    "ingredients": {
+      "ar": "ماء، سيراميدات، سكوالان، حمض الهيالورونيك، مستخلص الشاي الأخضر.",
+      "en": "Aqua, Ceramide NP, Squalane, Sodium Hyaluronate, Camellia Sinensis Leaf Extract."
+    },
+    "createdAt": "2025-07-07"
+  },
+  {
+    "id": "dl-012",
+    "slug": "gentle-gel-cleanser",
+    "brand": "vireo-skin",
+    "name": {
+      "ar": "غسول جل لطيف",
+      "en": "Gentle Gel Cleanser"
+    },
+    "price": 28,
+    "salePrice": null,
+    "rating": 4.5,
+    "reviewCount": 1120,
+    "images": [
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "150ml",
+        "label": "150 ml",
+        "price": 28,
+        "salePrice": null
+      },
+      {
+        "id": "300ml",
+        "label": "300 ml",
+        "price": 44,
+        "salePrice": null
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "cleansers",
+    "tags": [],
+    "skinTypes": [
+      "oily",
+      "combination",
+      "sensitive"
+    ],
+    "concerns": [
+      "acne",
+      "pores"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "غسول منخفض الرغوة ينظف بعمق دون أن يسلب البشرة رطوبتها الطبيعية.",
+      "en": "A low-foam cleanser that cleans deeply without stripping natural moisture."
+    },
+    "howToUse": {
+      "ar": "دلكي على بشرة رطبة لمدة 60 ثانية ثم اشطفي بالماء الفاتر.",
+      "en": "Massage onto damp skin for 60 seconds, then rinse with lukewarm water."
+    },
+    "ingredients": {
+      "ar": "ماء، جلوكوسيد الكوكو، جليسرين، مستخلص الصبار، بانثينول.",
+      "en": "Aqua, Coco-Glucoside, Glycerin, Aloe Barbadensis Leaf Juice, Panthenol."
+    },
+    "createdAt": "2025-02-18"
+  },
+  {
+    "id": "dl-013",
+    "slug": "niacinamide-pore-serum",
+    "brand": "vireo-skin",
+    "name": {
+      "ar": "سيروم النياسيناميد للمسام",
+      "en": "Niacinamide Pore Serum"
+    },
+    "price": 34,
+    "salePrice": null,
+    "rating": 4.4,
+    "reviewCount": 968,
+    "images": [
+      "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 34,
+        "salePrice": null
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "serums",
+    "tags": [
+      "new"
+    ],
+    "skinTypes": [
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "pores",
+      "acne"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "نياسيناميد 10٪ مع الزنك لتقليل ظهور المسام وتنظيم إفراز الدهون.",
+      "en": "10% niacinamide with zinc to minimize the look of pores and balance oil."
+    },
+    "howToUse": {
+      "ar": "ضعي 3–4 قطرات على بشرة نظيفة صباحاً ومساءً قبل المرطب.",
+      "en": "Press 3–4 drops onto clean skin morning and night, before moisturizer."
+    },
+    "ingredients": {
+      "ar": "ماء، حمض الأسكوربيك 15٪، فيتامين E، حمض الفيروليك، جليسرين.",
+      "en": "Aqua, Ascorbic Acid 15%, Tocopherol, Ferulic Acid, Glycerin."
+    },
+    "createdAt": "2026-08-22"
+  },
+  {
+    "id": "dl-014",
+    "slug": "retinal-night-renewal",
+    "brand": "aurae-lab",
+    "name": {
+      "ar": "سيروم الريتينال الليلي",
+      "en": "Retinal Night Renewal"
+    },
+    "price": 82,
+    "salePrice": null,
+    "rating": 4.6,
+    "reviewCount": 655,
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 82,
+        "salePrice": null
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "serums",
+    "tags": [
+      "just-dropped",
+      "exclusive"
+    ],
+    "skinTypes": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "concerns": [
+      "aging"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "ريتينال مغلف بتقنية الإطلاق التدريجي لتنعيم الخطوط الدقيقة بأقل تهيج.",
+      "en": "Encapsulated retinal with time-release technology to smooth fine lines with minimal irritation."
+    },
+    "howToUse": {
+      "ar": "ضعي 3–4 قطرات على بشرة نظيفة صباحاً ومساءً قبل المرطب.",
+      "en": "Press 3–4 drops onto clean skin morning and night, before moisturizer."
+    },
+    "ingredients": {
+      "ar": "ماء، حمض الأسكوربيك 15٪، فيتامين E، حمض الفيروليك، جليسرين.",
+      "en": "Aqua, Ascorbic Acid 15%, Tocopherol, Ferulic Acid, Glycerin."
+    },
+    "createdAt": "2026-10-15"
+  },
+  {
+    "id": "dl-015",
+    "slug": "invisible-mineral-spf50",
+    "brand": "vireo-skin",
+    "name": {
+      "ar": "واقي شمس معدني SPF 50",
+      "en": "Invisible Mineral SPF 50"
+    },
+    "price": 36,
+    "salePrice": 27,
+    "rating": 4.3,
+    "reviewCount": 742,
+    "images": [
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 36,
+        "salePrice": 27
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "suncare",
+    "tags": [],
+    "skinTypes": [
+      "sensitive",
+      "normal",
+      "oily"
+    ],
+    "concerns": [
+      "aging",
+      "dark-spots"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "حماية معدنية واسعة الطيف بلا أثر أبيض، مناسبة للبشرة الحساسة.",
+      "en": "Broad-spectrum mineral protection with no white cast, gentle on sensitive skin."
+    },
+    "howToUse": {
+      "ar": "طبقيه بسخاء كخطوة أخيرة صباحاً وأعيدي التطبيق كل ساعتين عند التعرض للشمس.",
+      "en": "Apply generously as the last morning step and reapply every two hours in the sun."
+    },
+    "ingredients": {
+      "ar": "أكسيد الزنك 20٪، سكوالان، نياسيناميد، فيتامين E.",
+      "en": "Zinc Oxide 20%, Squalane, Niacinamide, Tocopherol."
+    },
+    "createdAt": "2025-05-03"
+  },
+  {
+    "id": "dl-016",
+    "slug": "rose-hydra-mist",
+    "brand": "kasbah-botanics",
+    "name": {
+      "ar": "رذاذ الورد المرطب",
+      "en": "Rose Hydra Mist"
+    },
+    "price": 24,
+    "salePrice": null,
+    "rating": 4.5,
+    "reviewCount": 433,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 24,
+        "salePrice": null
+      }
+    ],
+    "category": "skincare",
+    "subcategory": "moisturizers",
+    "tags": [
+      "new"
+    ],
+    "skinTypes": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns": [
+      "hydration",
+      "dullness"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "ماء الورد الدمشقي المقطر مع الهيالورونيك لانتعاش فوري في أي وقت.",
+      "en": "Distilled Damascena rose water with hyaluronic acid for instant refreshment anytime."
+    },
+    "howToUse": {
+      "ar": "دلكي كمية بحجم حبة البازلاء على الوجه والرقبة كخطوة أخيرة في الروتين.",
+      "en": "Massage a pea-sized amount over face and neck as the last step of your routine."
+    },
+    "ingredients": {
+      "ar": "ماء، سيراميدات، سكوالان، حمض الهيالورونيك، مستخلص الشاي الأخضر.",
+      "en": "Aqua, Ceramide NP, Squalane, Sodium Hyaluronate, Camellia Sinensis Leaf Extract."
+    },
+    "createdAt": "2026-09-18"
+  },
+  {
+    "id": "dl-017",
+    "slug": "amber-saffron-oud",
+    "brand": "oudea",
+    "name": {
+      "ar": "عود العنبر والزعفران",
+      "en": "Amber Saffron Oud"
+    },
+    "price": 145,
+    "salePrice": null,
+    "rating": 4.8,
+    "reviewCount": 512,
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "50ml",
+        "label": "50 ml EDP",
+        "price": 145,
+        "salePrice": null
+      },
+      {
+        "id": "100ml",
+        "label": "100 ml EDP",
+        "price": 210,
+        "salePrice": null
+      }
+    ],
+    "category": "fragrance",
+    "subcategory": "oud",
+    "tags": [
+      "exclusive",
+      "bestseller"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "عود دافئ يلتقي بالزعفران والعنبر وخشب الصندل في عطر يدوم طويلاً.",
+      "en": "Warm oud meets saffron, amber and sandalwood in a long-lasting signature scent."
+    },
+    "howToUse": {
+      "ar": "رشي على نقاط النبض: المعصمين وخلف الأذنين وأسفل الرقبة.",
+      "en": "Spray onto pulse points: wrists, behind the ears and the base of the neck."
+    },
+    "ingredients": {
+      "ar": "كحول دناتشر، عطر، ماء، لينالول، ليمونين، كومارين.",
+      "en": "Alcohol Denat., Parfum (Fragrance), Aqua, Linalool, Limonene, Coumarin."
+    },
+    "createdAt": "2025-12-01"
+  },
+  {
+    "id": "dl-018",
+    "slug": "white-musk-bloom",
+    "brand": "maison-saba",
+    "name": {
+      "ar": "مسك الزهور البيضاء",
+      "en": "White Musk Bloom"
+    },
+    "price": 98,
+    "salePrice": 78,
+    "rating": 4.6,
+    "reviewCount": 876,
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "30ml",
+        "label": "30 ml EDP",
+        "price": 72,
+        "salePrice": 58
+      },
+      {
+        "id": "50ml",
+        "label": "50 ml EDP",
+        "price": 98,
+        "salePrice": 78
+      }
+    ],
+    "category": "fragrance",
+    "subcategory": "women",
+    "tags": [],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "مسك أبيض نظيف مع الياسمين وزهر البرتقال، أنثوي وناعم.",
+      "en": "Clean white musk with jasmine and orange blossom — soft and feminine."
+    },
+    "howToUse": {
+      "ar": "رشي على نقاط النبض: المعصمين وخلف الأذنين وأسفل الرقبة.",
+      "en": "Spray onto pulse points: wrists, behind the ears and the base of the neck."
+    },
+    "ingredients": {
+      "ar": "كحول دناتشر، عطر، ماء، لينالول، ليمونين، كومارين.",
+      "en": "Alcohol Denat., Parfum (Fragrance), Aqua, Linalool, Limonene, Coumarin."
+    },
+    "createdAt": "2025-03-21"
+  },
+  {
+    "id": "dl-019",
+    "slug": "cedar-vetiver-noir",
+    "brand": "maison-saba",
+    "name": {
+      "ar": "سيدر وفيتيفر نوار",
+      "en": "Cedar Vetiver Noir"
+    },
+    "price": 110,
+    "salePrice": null,
+    "rating": 4.5,
+    "reviewCount": 398,
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "50ml",
+        "label": "50 ml EDP",
+        "price": 110,
+        "salePrice": null
+      },
+      {
+        "id": "100ml",
+        "label": "100 ml EDP",
+        "price": 160,
+        "salePrice": null
+      }
+    ],
+    "category": "fragrance",
+    "subcategory": "men",
+    "tags": [
+      "new"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "خشب الأرز والفيتيفر مع لمسة من الفلفل الأسود لحضور رجولي أنيق.",
+      "en": "Cedarwood and vetiver with a hint of black pepper for an elegant, confident presence."
+    },
+    "howToUse": {
+      "ar": "رشي على نقاط النبض: المعصمين وخلف الأذنين وأسفل الرقبة.",
+      "en": "Spray onto pulse points: wrists, behind the ears and the base of the neck."
+    },
+    "ingredients": {
+      "ar": "كحول دناتشر، عطر، ماء، لينالول، ليمونين، كومارين.",
+      "en": "Alcohol Denat., Parfum (Fragrance), Aqua, Linalool, Limonene, Coumarin."
+    },
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "dl-020",
+    "slug": "rose-oud-mist",
+    "brand": "oudea",
+    "name": {
+      "ar": "رذاذ الورد والعود",
+      "en": "Rose Oud Hair & Body Mist"
+    },
+    "price": 48,
+    "salePrice": null,
+    "rating": 4.4,
+    "reviewCount": 267,
+    "images": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 48,
+        "salePrice": null
+      }
+    ],
+    "category": "fragrance",
+    "subcategory": "oud",
+    "tags": [
+      "just-dropped"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "رذاذ خفيف للشعر والجسم بنفحات الورد الطائفي والعود.",
+      "en": "A light hair and body mist with Taif rose and oud."
+    },
+    "howToUse": {
+      "ar": "رشي على نقاط النبض: المعصمين وخلف الأذنين وأسفل الرقبة.",
+      "en": "Spray onto pulse points: wrists, behind the ears and the base of the neck."
+    },
+    "ingredients": {
+      "ar": "كحول دناتشر، عطر، ماء، لينالول، ليمونين، كومارين.",
+      "en": "Alcohol Denat., Parfum (Fragrance), Aqua, Linalool, Limonene, Coumarin."
+    },
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "dl-021",
+    "slug": "argan-repair-shampoo",
+    "brand": "petalis",
+    "name": {
+      "ar": "شامبو الأرغان المرمم",
+      "en": "Argan Repair Shampoo"
+    },
+    "price": 26,
+    "salePrice": null,
+    "rating": 4.4,
+    "reviewCount": 690,
+    "images": [
+      "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599305090598-fe179d501227?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "250ml",
+        "label": "250 ml",
+        "price": 26,
+        "salePrice": null
+      },
+      {
+        "id": "500ml",
+        "label": "500 ml",
+        "price": 40,
+        "salePrice": null
+      }
+    ],
+    "category": "hair",
+    "subcategory": "shampoo",
+    "tags": [],
+    "skinTypes": [],
+    "concerns": [
+      "damage",
+      "frizz"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "شامبو خالٍ من الكبريتات بزيت الأرغان والكيراتين لترميم الشعر التالف.",
+      "en": "A sulfate-free shampoo with argan oil and keratin to repair damaged hair."
+    },
+    "howToUse": {
+      "ar": "وزعي على الشعر الرطب من المنتصف حتى الأطراف واتركيه دقيقتين ثم اشطفي.",
+      "en": "Work through damp hair from mid-lengths to ends, leave for two minutes, then rinse."
+    },
+    "ingredients": {
+      "ar": "ماء، بيتاين كوكاميدوبروبيل، زيت الأرغان، كيراتين مُحلل، بانثينول.",
+      "en": "Aqua, Cocamidopropyl Betaine, Argania Spinosa Kernel Oil, Hydrolyzed Keratin, Panthenol."
+    },
+    "createdAt": "2025-01-30"
+  },
+  {
+    "id": "dl-022",
+    "slug": "silk-bond-mask",
+    "brand": "petalis",
+    "name": {
+      "ar": "ماسك الحرير لتقوية الروابط",
+      "en": "Silk Bond Hair Mask"
+    },
+    "price": 38,
+    "salePrice": 30,
+    "rating": 4.7,
+    "reviewCount": 1035,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599305090598-fe179d501227?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1626015365107-338d6f8b8a3c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 38,
+        "salePrice": 30
+      }
+    ],
+    "category": "hair",
+    "subcategory": "treatments",
+    "tags": [
+      "bestseller"
+    ],
+    "skinTypes": [],
+    "concerns": [
+      "damage",
+      "frizz"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "ماسك مكثف يقوي روابط الشعر ويمنحه نعومة ولمعاناً من أول استخدام.",
+      "en": "An intensive mask that strengthens bonds for softness and shine from the first use."
+    },
+    "howToUse": {
+      "ar": "وزعي على الشعر الرطب من المنتصف حتى الأطراف واتركيه دقيقتين ثم اشطفي.",
+      "en": "Work through damp hair from mid-lengths to ends, leave for two minutes, then rinse."
+    },
+    "ingredients": {
+      "ar": "ماء، بيتاين كوكاميدوبروبيل، زيت الأرغان، كيراتين مُحلل، بانثينول.",
+      "en": "Aqua, Cocamidopropyl Betaine, Argania Spinosa Kernel Oil, Hydrolyzed Keratin, Panthenol."
+    },
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": "dl-023",
+    "slug": "glow-hair-oil",
+    "brand": "petalis",
+    "name": {
+      "ar": "زيت اللمعان للشعر",
+      "en": "Weightless Glow Hair Oil"
+    },
+    "price": 32,
+    "salePrice": null,
+    "rating": 4.6,
+    "reviewCount": 812,
+    "images": [
+      "https://images.unsplash.com/photo-1599305090598-fe179d501227?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1626015365107-338d6f8b8a3c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 32,
+        "salePrice": null
+      }
+    ],
+    "category": "hair",
+    "subcategory": "styling",
+    "tags": [
+      "new"
+    ],
+    "skinTypes": [],
+    "concerns": [
+      "frizz"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "زيت خفيف لا يثقل الشعر، يحارب التجعد ويحمي من الحرارة حتى 230°م.",
+      "en": "A weightless oil that tames frizz and protects from heat up to 230°C."
+    },
+    "howToUse": {
+      "ar": "دفئي قطرتين بين راحتيك ووزعيهما على أطراف الشعر الجاف أو الرطب.",
+      "en": "Warm two drops between your palms and smooth over damp or dry ends."
+    },
+    "ingredients": {
+      "ar": "زيت الأرغان، زيت الكاميليا، سكوالان، فيتامين E.",
+      "en": "Argania Spinosa Kernel Oil, Camellia Japonica Seed Oil, Squalane, Tocopherol."
+    },
+    "createdAt": "2026-09-09"
+  },
+  {
+    "id": "dl-024",
+    "slug": "pro-foundation-brush",
+    "brand": "atlas-tools",
+    "name": {
+      "ar": "فرشاة كريم الأساس الاحترافية",
+      "en": "Pro Foundation Brush"
+    },
+    "price": 34,
+    "salePrice": null,
+    "rating": 4.7,
+    "reviewCount": 455,
+    "images": [
+      "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599948128020-9a44505b0d1b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 34,
+        "salePrice": null
+      }
+    ],
+    "category": "tools",
+    "subcategory": "brushes",
+    "tags": [
+      "exclusive"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "فرشاة كثيفة مسطحة الأطراف لتوزيع كريم الأساس بلمسة نهائية كالبشرة الثانية.",
+      "en": "A dense, flat-top brush for an airbrushed, second-skin foundation finish."
+    },
+    "howToUse": {
+      "ar": "اغسليها أسبوعياً بمنظف لطيف واتركيها تجف أفقياً.",
+      "en": "Wash weekly with a gentle cleanser and let dry flat."
+    },
+    "ingredients": {
+      "ar": "ألياف صناعية خالية من القسوة، مقبض من خشب الزان، حلقة ألمنيوم.",
+      "en": "Cruelty-free synthetic fibers, beechwood handle, aluminum ferrule."
+    },
+    "createdAt": "2025-07-19"
+  },
+  {
+    "id": "dl-025",
+    "slug": "essential-brush-set",
+    "brand": "atlas-tools",
+    "name": {
+      "ar": "مجموعة الفرش الأساسية",
+      "en": "Essential Brush Set"
+    },
+    "price": 89,
+    "salePrice": 69,
+    "rating": 4.8,
+    "reviewCount": 640,
+    "images": [
+      "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599948128020-9a44505b0d1b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 89,
+        "salePrice": 69
+      }
+    ],
+    "category": "tools",
+    "subcategory": "brushes",
+    "tags": [
+      "bestseller"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "سبع فرش أساسية للوجه والعيون في حقيبة جلد نباتي أنيقة.",
+      "en": "Seven essential face and eye brushes in an elegant vegan-leather roll."
+    },
+    "howToUse": {
+      "ar": "اغسليها أسبوعياً بمنظف لطيف واتركيها تجف أفقياً.",
+      "en": "Wash weekly with a gentle cleanser and let dry flat."
+    },
+    "ingredients": {
+      "ar": "ألياف صناعية خالية من القسوة، مقبض من خشب الزان، حلقة ألمنيوم.",
+      "en": "Cruelty-free synthetic fibers, beechwood handle, aluminum ferrule."
+    },
+    "createdAt": "2025-11-11"
+  },
+  {
+    "id": "dl-026",
+    "slug": "blending-sponge-duo",
+    "brand": "atlas-tools",
+    "name": {
+      "ar": "ثنائي إسفنجة الدمج",
+      "en": "Blending Sponge Duo"
+    },
+    "price": 22,
+    "salePrice": null,
+    "rating": 4.5,
+    "reviewCount": 1210,
+    "images": [
+      "https://images.unsplash.com/photo-1599948128020-9a44505b0d1b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 22,
+        "salePrice": null
+      }
+    ],
+    "category": "tools",
+    "subcategory": "sponges",
+    "tags": [
+      "just-dropped"
+    ],
+    "skinTypes": [],
+    "concerns": [],
+    "finish": null,
+    "description": {
+      "ar": "إسفنجتان ناعمتان تتمددان عند الترطيب لدمج سلس بلا خطوط.",
+      "en": "Two soft sponges that expand when damp for a seamless, streak-free blend."
+    },
+    "howToUse": {
+      "ar": "اغسليها أسبوعياً بمنظف لطيف واتركيها تجف أفقياً.",
+      "en": "Wash weekly with a gentle cleanser and let dry flat."
+    },
+    "ingredients": {
+      "ar": "ألياف صناعية خالية من القسوة، مقبض من خشب الزان، حلقة ألمنيوم.",
+      "en": "Cruelty-free synthetic fibers, beechwood handle, aluminum ferrule."
+    },
+    "createdAt": "2026-10-05"
+  },
+  {
+    "id": "dl-027",
+    "slug": "hammam-body-scrub",
+    "brand": "kasbah-botanics",
+    "name": {
+      "ar": "مقشر الحمّام للجسم",
+      "en": "Hammam Body Scrub"
+    },
+    "price": 36,
+    "salePrice": null,
+    "rating": 4.6,
+    "reviewCount": 520,
+    "images": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 36,
+        "salePrice": null
+      }
+    ],
+    "category": "bath-body",
+    "subcategory": "body-care",
+    "tags": [
+      "exclusive"
+    ],
+    "skinTypes": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "dullness"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "مقشر سكر قصب بالصابون البلدي والورد يكشف عن بشرة ناعمة كالحرير.",
+      "en": "A cane-sugar scrub with black soap and rose that reveals silky-smooth skin."
+    },
+    "howToUse": {
+      "ar": "دلكي على بشرة الجسم الرطبة بحركات دائرية ثم اشطفي أو اتركيه يمتص.",
+      "en": "Massage onto damp skin in circular motions, then rinse or let absorb."
+    },
+    "ingredients": {
+      "ar": "زبدة الشيا، زيت اللوز الحلو، سكر قصب، مستخلص الورد الدمشقي.",
+      "en": "Shea Butter, Sweet Almond Oil, Sucrose, Rosa Damascena Flower Extract."
+    },
+    "createdAt": "2025-10-20"
+  },
+  {
+    "id": "dl-028",
+    "slug": "shea-velvet-body-lotion",
+    "brand": "kasbah-botanics",
+    "name": {
+      "ar": "لوشن الشيا المخملي",
+      "en": "Shea Velvet Body Lotion"
+    },
+    "price": 28,
+    "salePrice": 21,
+    "rating": 4.5,
+    "reviewCount": 702,
+    "images": [
+      "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "250ml",
+        "label": "250 ml",
+        "price": 28,
+        "salePrice": 21
+      },
+      {
+        "id": "400ml",
+        "label": "400 ml",
+        "price": 38,
+        "salePrice": 29
+      }
+    ],
+    "category": "bath-body",
+    "subcategory": "body-care",
+    "tags": [],
+    "skinTypes": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "hydration"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "لوشن غني بزبدة الشيا يمتص بسرعة ويترك البشرة مخملية لمدة 48 ساعة.",
+      "en": "A rich shea lotion that absorbs quickly and leaves skin velvety for 48 hours."
+    },
+    "howToUse": {
+      "ar": "دلكي على بشرة الجسم الرطبة بحركات دائرية ثم اشطفي أو اتركيه يمتص.",
+      "en": "Massage onto damp skin in circular motions, then rinse or let absorb."
+    },
+    "ingredients": {
+      "ar": "زبدة الشيا، زيت اللوز الحلو، سكر قصب، مستخلص الورد الدمشقي.",
+      "en": "Shea Butter, Sweet Almond Oil, Sucrose, Rosa Damascena Flower Extract."
+    },
+    "createdAt": "2025-04-28"
+  },
+  {
+    "id": "dl-029",
+    "slug": "orange-blossom-hand-cream",
+    "brand": "maison-saba",
+    "name": {
+      "ar": "كريم اليدين بزهر البرتقال",
+      "en": "Orange Blossom Hand Cream"
+    },
+    "price": 18,
+    "salePrice": null,
+    "rating": 4.4,
+    "reviewCount": 340,
+    "images": [
+      "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "shades": [],
+    "sizes": [
+      {
+        "id": "std",
+        "label": "Standard",
+        "price": 18,
+        "salePrice": null
+      }
+    ],
+    "category": "bath-body",
+    "subcategory": "hand-care",
+    "tags": [
+      "new"
+    ],
+    "skinTypes": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "hydration"
+    ],
+    "finish": null,
+    "description": {
+      "ar": "كريم يدين غير دهني برائحة زهر البرتقال المنعشة.",
+      "en": "A non-greasy hand cream scented with fresh orange blossom."
+    },
+    "howToUse": {
+      "ar": "دلكي على بشرة الجسم الرطبة بحركات دائرية ثم اشطفي أو اتركيه يمتص.",
+      "en": "Massage onto damp skin in circular motions, then rinse or let absorb."
+    },
+    "ingredients": {
+      "ar": "زبدة الشيا، زيت اللوز الحلو، سكر قصب، مستخلص الورد الدمشقي.",
+      "en": "Shea Butter, Sweet Almond Oil, Sucrose, Rosa Damascena Flower Extract."
+    },
+    "createdAt": "2026-09-25"
+  }
+]

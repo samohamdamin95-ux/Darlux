@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "makeup",
+    "name": { "ar": "المكياج", "en": "Makeup" },
+    "description": { "ar": "كريم أساس وأحمر شفاه وظلال عيون بألوان تناسب كل بشرة.", "en": "Foundation, lipstick and eyeshadow in shades made for every skin tone." },
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+    "subcategories": [
+      { "slug": "face", "name": { "ar": "الوجه", "en": "Face" } },
+      { "slug": "lips", "name": { "ar": "الشفاه", "en": "Lips" } },
+      { "slug": "eyes", "name": { "ar": "العيون", "en": "Eyes" } },
+      { "slug": "cheeks", "name": { "ar": "الخدود", "en": "Cheeks" } }
+    ],
+    "featured": {
+      "title": { "ar": "ألوان الخريف الجديدة", "en": "The new autumn palette" },
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "href": "/c/makeup?sort=new"
+    }
+  },
+  {
+    "slug": "skincare",
+    "name": { "ar": "العناية بالبشرة", "en": "Skincare" },
+    "description": { "ar": "سيرومات ومرطبات ومنظفات تركز على نتائج حقيقية.", "en": "Serums, moisturizers and cleansers focused on real results." },
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=800&q=80",
+    "subcategories": [
+      { "slug": "cleansers", "name": { "ar": "المنظفات", "en": "Cleansers" } },
+      { "slug": "serums", "name": { "ar": "السيرومات", "en": "Serums" } },
+      { "slug": "moisturizers", "name": { "ar": "المرطبات", "en": "Moisturizers" } },
+      { "slug": "suncare", "name": { "ar": "الحماية من الشمس", "en": "Sun care" } }
+    ],
+    "featured": {
+      "title": { "ar": "روتين البشرة المضيئة", "en": "The glow routine" },
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+      "href": "/c/skincare"
+    }
+  },
+  {
+    "slug": "fragrance",
+    "name": { "ar": "العطور", "en": "Fragrance" },
+    "description": { "ar": "عطور نسائية ورجالية من العود إلى الزهور البيضاء.", "en": "Scents for her and him, from oud to white florals." },
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
+    "subcategories": [
+      { "slug": "women", "name": { "ar": "عطور نسائية", "en": "Women" } },
+      { "slug": "men", "name": { "ar": "عطور رجالية", "en": "Men" } },
+      { "slug": "oud", "name": { "ar": "العود", "en": "Oud" } }
+    ],
+    "featured": {
+      "title": { "ar": "مجموعة العود الحديث", "en": "The modern oud edit" },
+      "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
+      "href": "/c/fragrance"
+    }
+  },
+  {
+    "slug": "hair",
+    "name": { "ar": "الشعر", "en": "Hair" },
+    "description": { "ar": "شامبو وزيوت وعلاجات لشعر صحي ولامع.", "en": "Shampoo, oils and treatments for healthy, glossy hair." },
+    "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80",
+    "subcategories": [
+      { "slug": "shampoo", "name": { "ar": "الشامبو والبلسم", "en": "Shampoo & conditioner" } },
+      { "slug": "treatments", "name": { "ar": "العلاجات", "en": "Treatments" } },
+      { "slug": "styling", "name": { "ar": "التصفيف", "en": "Styling" } }
+    ],
+    "featured": {
+      "title": { "ar": "ترطيب عميق للشعر", "en": "Deep hair hydration" },
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "href": "/c/hair"
+    }
+  },
+  {
+    "slug": "tools",
+    "name": { "ar": "الأدوات والفرش", "en": "Tools & Brushes" },
+    "description": { "ar": "فرش وإسفنجات وأدوات تطبيق احترافية.", "en": "Professional brushes, sponges and applicators." },
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=80",
+    "subcategories": [
+      { "slug": "brushes", "name": { "ar": "الفرش", "en": "Brushes" } },
+      { "slug": "sponges", "name": { "ar": "الإسفنجات", "en": "Sponges" } },
+      { "slug": "devices", "name": { "ar": "الأجهزة", "en": "Devices" } }
+    ],
+    "featured": {
+      "title": { "ar": "أساسيات الفنان", "en": "Artist essentials" },
+      "image": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=800&q=80",
+      "href": "/c/tools"
+    }
+  },
+  {
+    "slug": "bath-body",
+    "name": { "ar": "الاستحمام والجسم", "en": "Bath & Body" },
+    "description": { "ar": "غسول ولوشن ومقشرات لطقوس عناية يومية.", "en": "Washes, lotions and scrubs for everyday rituals." },
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+    "subcategories": [
+      { "slug": "body-care", "name": { "ar": "العناية بالجسم", "en": "Body care" } },
+      { "slug": "bath", "name": { "ar": "الاستحمام", "en": "Bath" } },
+      { "slug": "hand-care", "name": { "ar": "العناية باليدين", "en": "Hand care" } }
+    ],
+    "featured": {
+      "title": { "ar": "طقوس الحمّام", "en": "Hammam rituals" },
+      "image": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?auto=format&fit=crop&w=800&q=80",
+      "href": "/c/bath-body"
+    }
+  }
+]
